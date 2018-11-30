@@ -35,8 +35,8 @@ headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
 
 
 post_data = {
-    "username":"此处放你的账号",
-    "password":"此处放入你的密码"
+    "username":"18872729852",
+    "password":"YANGFAN0711"
 }
 
 session.post(post_url,data=post_data,headers=headers)
