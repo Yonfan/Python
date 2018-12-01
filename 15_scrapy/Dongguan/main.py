@@ -2,4 +2,5 @@
 
 from scrapy import cmdline
 
-cmdline.execute("scrapy crawl sun".split())
+# cmdline.execute("scrapy crawl sun".split())
+cmdline.execute("scrapy crawl sunwz".split())

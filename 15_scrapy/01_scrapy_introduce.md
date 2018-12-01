@@ -166,6 +166,8 @@ scrapy crawl itcast
 # 启动Scrapy Shell
 scrapy shell "http://www.itcast.cn/channel/teacher.shtml"
 
+# 通过下面的命令可以快速创建 CrawlSpider模板的代码：
+scrapy genspider -t crawl tencent tencent.com
 ```    
     
 
